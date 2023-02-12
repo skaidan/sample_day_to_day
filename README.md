@@ -1,6 +1,4 @@
-# SAMPLE SCHEDULER
-## Static scheduler for kids
+# Generator of population for Watabou MEdieval City Generator 
+## [Static scheduler for kids](https://watabou.itch.io/medieval-fantasy-city-generator)
 
-
-This repo is able to upload an static schedule into a google machine so you can show to kids or people who does not understand time conception, What part of the day is now , What activity is supposed you should be doing, free time...
 
